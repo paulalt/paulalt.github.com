@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;	
+	font-family : verdana;
+	letter-spacing : normal;
+	font-weight: normal;
+	font-size: 12px;
+}
+
+BODY {
+	background-color : #ffffff;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+p{
+	padding-top: 13px;
+}
+
+p.support{
+	padding-top: 8px;
+	margin-bottom: 16px;
+}
+
+p.copy{
+	padding-top: 36px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+p.upload{
+	padding-top: 0px;
+	margin-bottom: 6px;
+}
+
+div.frame1 {
+	background-color : #FBFBFC;
+	border-width : 1px 1px 1px 1px;
+	border-style : double double double double;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0;
+	margin-top : 10px;
+	padding-bottom : 10px;
+	padding-left : 10px;
+	padding-right : 10px;
+	padding-top : 10px;
+	width : 780px;
+	text-align : left;
+	font-family : Verdana;
+	font-size : 12px;
+	color: Blue;
+	line-height : 20px;
+	border-color: #AFB3AD;
+}
+
+div.frame2 {
+	background-color : #FBFBFC;
+	border-width : 1px 1px 1px 1px;
+	border-style : solid solid solid solid;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0;
+	margin-top : 0px;
+	padding-bottom : 10px;
+	padding-left : 10px;
+	padding-right : 10px;
+	padding-top : 10px;
+	width : 780px;
+	text-align : left;
+	font-family : Verdana;
+	font-size : 12px;
+	color: Blue;
+	letter-spacing: normal;
+	line-height : 20px;
+	border-color: #AFB3AD;
+}
+
